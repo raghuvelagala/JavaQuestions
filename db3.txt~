@@ -1,0 +1,6 @@
+MULTIPLECHOICEQUESTION#2#[Compiled,Interpreted,Compiled and Interpreted,Executed]#Is Java a compiled or interpreted programming language?#Java as a Language#30
+TRUEFALSEQUESTION#true#Java does not care about whitespace.#Java Syntax#5
+SHORTANSWERQUESTION#byte#What is the smallest primitive type in Java in terms of memory used?#Java Syntax#70
+TRUEFALSEQUESTION#true#A static method cannot access instance attributes.#Java Syntax#65
+TRUEFALSEQUESTION#true#Project six is hard.#Java Syntax#0
+SHORTANSWERQUESTION#friday#When is the project due?#Java Syntax#100

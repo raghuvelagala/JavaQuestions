@@ -1,0 +1,9 @@
+MULTIPLECHOICEQUESTION#2#[Compiled,Interpreted,Compiled and Interpreted,Executed]#Is Java a compiled or interpreted programming language?#Java as a Language#30
+HAHA
+TRUEFALSEQUESTION#true#Java does not care about whitespace.#Java Syntax#5
+SHORTANSWERQUESTION#byte#What is the smallest primitive type in Java in terms of memory used?#Java Syntax#70
+CODINGQUESTION#int num1 = 0;#Declare a primitive integer variable num1 and assign its value to be zero on the same line that you declare it. Assume that you are writing this inside of a main method for some class. Your answer must compile.#Java Syntax#false# # #15
+CODINGQUESTION# #Open a file of numbers in the file input.txt find the smallest number and print it out. Assume that you are writing this inside of a main method for some class and you have the proper import statements already set up.#Java Syntax#true#1,2,3,0,6,1,7#0#64
+TRUEFALSEQUESTION#false#You can switch on Strings.#Java Syntax#85
+TRUEFALSEQUESTION#false#A static method must be public.#Java Syntax#66
+TRUEFALSEQUESTION#true#A static method cannot access instance attributes.#Java Syntax#65

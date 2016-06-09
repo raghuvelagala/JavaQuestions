@@ -1,0 +1,7 @@
+B
+false
+true
+C
+byte
+monday
+friday

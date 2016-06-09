@@ -1,0 +1,15 @@
+A
+False
+B
+True
+x
+int num1 = 0;
+B
+C
+i dunno
+try{BufferedReader buf = new BufferedReader(new FileReader("input.txt"));String line = null;ArrayList nums = new ArrayList();line=buf.readLine();String[] parts = line.split(",");for(String part: parts)nums.add(new Integer(part));Collections.sort(nums);System.out.println(nums.get(0));}catch(Exception e){e.printStackTrace();}
+False
+byte
+ummmmm
+this is tricky
+False
